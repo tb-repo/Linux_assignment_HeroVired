@@ -462,8 +462,8 @@ If there are no errors on the output, we can confirm that the script is working 
 
 # Challenges Encountered
 
-a. Permission issues creating directories and running chmod, chown commands
-b. Identifying the right package and steps for setting password policies
+a. Permission issues creating directories and running chmod, chown commands\
+b. Identifying the right package and steps for setting password policies\
 c. Identifying the right package for installing Apache
 
 # Conclusion
